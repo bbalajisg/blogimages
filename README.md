@@ -1,2 +1,2 @@
 # blogimages
-Images for flying shuttle
+Images for flying shuttle blog
